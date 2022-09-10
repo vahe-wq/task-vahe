@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin:0;
+}
+
+
+.end1{
+    background-image: url(end.png);
+    width: 100%;
+}
+.table1{
+    margin-top: -21%;
+    margin-left: 20%;
+    font-size: 15px;
+    text-decoration:underline none;
+}
+.table1:hover{
+    text-decoration: underline green;
+    
+}
+.tr1{
+    color: greenyellow;
+}
+.table2{
+    margin-top: -9.4%;
+    margin-left: 35%;
+    font-size: 15px;
+    text-decoration:underline none;
+}
+.table2:hover{
+    text-decoration: underline green;
+    
+}
+.tr2{
+    color: greenyellow;
+}
+.table3{
+    margin-top: -4.8%;
+    margin-left: 45%;
+    font-size: 15px;
+    text-decoration:underline none;
+}
+.table3:hover{
+    text-decoration: underline green;
+    
+}
+.tr3{
+    color: greenyellow;
+}
+.table4{
+    margin-top: -4.8%;
+    margin-left: 65%;
+    font-size: 15px;
+    text-decoration:underline none;
+}
+.table4:hover{
+    text-decoration: underline green;
+    
+}
+.tr4{
+    color: greenyellow;
+}
